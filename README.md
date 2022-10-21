@@ -1,5 +1,5 @@
 <p align="center"> 
-<b>༺═════════[👸]══════════༻</b>
+<b>༺═════════[🤓]══════════༻</b>
 </p>
 <p align="center">
 <img src="https://drive.google.com/file/d/1gKbN_Hqyt-DVoIonQ3k_ZhBQ17i35B7x/view?usp=drivesdk" width="300" height="300"/>
@@ -64,10 +64,10 @@ A very good bot that you can use in whatsapp.
 5. deploy using your link 💖
 
 
-THANAKS FOR USNING QUEEN ELISA 💃💖
+THANAKS FOR USNING Davit Moder 💃💖
 
 
-[Join Public Group](https://chat.whatsapp.com/BbIpvkRD4qP6xKckb8cpT0)
+[WhatsApp Messege](https://wa.me/916033352400)
 
 
 
