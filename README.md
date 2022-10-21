@@ -2,7 +2,7 @@
 <b>༺═════════[👸]══════════༻</b>
 </p>
 <p align="center">
-<img src="https://i.imgur.com/u956kdR.jpeg" width="300" height="300"/>
+<img src="https://ibb.co/nBV43Js" width="300" height="300"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Queen+Elisa+Whatsapp+Bot" alt="">
