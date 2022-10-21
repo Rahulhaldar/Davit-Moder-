@@ -2,7 +2,7 @@
 <b>༺═════════[👸]══════════༻</b>
 </p>
 <p align="center">
-<img src="https://ibb.co/nBV43Js" width="300" height="300"/>
+<img src="https://drive.google.com/file/d/1gKbN_Hqyt-DVoIonQ3k_ZhBQ17i35B7x/view?usp=drivesdk" width="300" height="300"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Queen+Elisa+Whatsapp+Bot" alt="">
