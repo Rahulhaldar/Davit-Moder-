@@ -80,19 +80,19 @@
   "ALIVE_LOGO" :{
   "description" : "YOUR BOT ALIVE LOGO GET YOUR LINK UPLOAD imgbb.com WEB SITE ",
   "requred" : true,
-  "value" :"https://ibb.co/nBV43Js"
+  "value" :"https://i.postimg.cc/LsgDhDfX/20221021-211823.jpg"
   },
 
   "WELCOME_MSG" :{
   "description" : "YOUR WELCOME MASSAGE",
-  "required" : false,
-    "value" :""
+  "required" : true,
+    "value" :"*Welcome To Davit Moder  ×͜× Bot*"
   },
 
   "GOODBYE_MSG" :{
   "description" : "YOUR GOODBYE MASSAGE",
-  "required" : false,
-    "value" :""
+  "required" : true,
+    "value" :"Good 👍 Bay"
   },
 
   "SUCCESS_MSG" :{
